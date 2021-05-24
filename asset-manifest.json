@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/LegacyBreaktimeManagement/static/css/main.edc3b5e3.chunk.css",
+    "main.js": "/LegacyBreaktimeManagement/static/js/main.54f1b65c.chunk.js",
+    "main.js.map": "/LegacyBreaktimeManagement/static/js/main.54f1b65c.chunk.js.map",
+    "runtime-main.js": "/LegacyBreaktimeManagement/static/js/runtime-main.c0628bb6.js",
+    "runtime-main.js.map": "/LegacyBreaktimeManagement/static/js/runtime-main.c0628bb6.js.map",
+    "static/js/2.88f45ee1.chunk.js": "/LegacyBreaktimeManagement/static/js/2.88f45ee1.chunk.js",
+    "static/js/2.88f45ee1.chunk.js.map": "/LegacyBreaktimeManagement/static/js/2.88f45ee1.chunk.js.map",
+    "index.html": "/LegacyBreaktimeManagement/index.html",
+    "precache-manifest.4eb822d9bf26008902994b9a379162e3.js": "/LegacyBreaktimeManagement/precache-manifest.4eb822d9bf26008902994b9a379162e3.js",
+    "service-worker.js": "/LegacyBreaktimeManagement/service-worker.js",
+    "static/css/main.edc3b5e3.chunk.css.map": "/LegacyBreaktimeManagement/static/css/main.edc3b5e3.chunk.css.map",
+    "static/js/2.88f45ee1.chunk.js.LICENSE.txt": "/LegacyBreaktimeManagement/static/js/2.88f45ee1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0628bb6.js",
+    "static/js/2.88f45ee1.chunk.js",
+    "static/css/main.edc3b5e3.chunk.css",
+    "static/js/main.54f1b65c.chunk.js"
+  ]
+}
